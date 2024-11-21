@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-bt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Roupa Feminina</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="script.js"></script>
+</head>
+<body>
+<nav>
+    <ul>
+        <li>
+            <a href="CONTATO.html">CONTATO</a>
+        </li>
+    </ul>
+</nav>
+
+    <div class="card">
+        <img src="assets/PIJAMA 02 SITE.jpeg">
+        <div>
+          <h1>Pijama Serena</h1>
+          <h2>Inverno</h2>
+          <span>R$ 100,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+
+    <div class="card">
+        <img src="assets/PIJAMA 05 SITE.jpeg">
+        <div>
+          <h1>Pijama Solista</h1>
+          <h2>Verão</h2>
+          <span>R$ 70,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="assets/PIJAMA 03 SITE.jpeg">
+        <div>
+          <h1>Pijama Sun</h1>
+          <h2>Verão</h2>
+          <span>R$ 50,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+      
+      <div class="card">
+        <img src="assets/PIJAMA 06 SITE.jpeg">
+        <div>
+          <h1>Pijama Corsel</h1>
+          <h2>Verão</h2>
+          <span>R$ 50,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+     
+      <div class="card">
+        <img src="assets/PIJAMA 07 SITE.jpeg">
+        <div>
+          <h1>Pijama Floco</h1>
+          <h2>Inverno</h2>
+          <span>R$ 70,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="assets/PIJAMA 08 SITE.jpeg">
+        <div>
+          <h1>Pijama Rose</h1>
+          <h2>Verão</h2>
+          <span>R$ 110,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="assets/PIJAMA 09 SITE.jpeg">
+        <div>
+          <h1>Pijama  Sunflower</h1>
+          <h2>Verão</h2>
+          <span>R$ 40,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="assets/PIJAMA 04F SITE.jpeg">
+        <div>
+          <h1>Pijama Overnight </h1>
+          <h2>Verão</h2>
+          <span>R$ 80,00</span>
+          <button>Comprar</button>
+        </div>
+      </div>
+
+     <header>
+<div>
+    <ul>
+        <img src="assets/imagem pro site2.jpg">
+        
+    </ul>
+    <ul>
+        <h3>
+            Sonhos dos Sonhoss
+        </h3>
+    </ul>
+</div>
+    </header>
+
+    
+
+</div>
+
+
+    </div>
+
+
+
+</body>
+</html>
